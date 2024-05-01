@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Euretikos
+εὑρετικός, Ingnious Inventor.
 <pre>
-  pip install independent-machine
+  pip install euretikos
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import euretikos
 ```
