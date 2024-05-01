@@ -1,5 +1,5 @@
 # Euretikos
-εὑρετικός, Ingnious Inventor.
+εὑρετικός, Ingenious Inventor.
 <pre>
   pip install euretikos
 </pre>
